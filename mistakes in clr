@@ -1,0 +1,12 @@
+There is mistakes in your first&follow file line no.62
+What if grammar would be 
+E->AE
+A->a
+A->
+then it should give output with conflict but your code gives error
+I don't know how to comment that's why I have created this file.
+In order you want to contact ping me rahul22kt@gmail.com
+
+And the  correction reqquired under this loop is 
+if Y==symbol:
+  break
